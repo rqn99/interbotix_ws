@@ -1,0 +1,1 @@
+/home/renee/interbotix_ws/devel/.private/interbotix_perception_modules/share/roseus/ros/interbotix_perception_modules/srv/SnapPicture.l

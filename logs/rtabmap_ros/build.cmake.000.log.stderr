@@ -1,0 +1,47 @@
+CMake Deprecation Warning at CMakeLists.txt:7 (cmake_policy):
+  The OLD behavior for policy CMP0043 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Deprecation Warning at CMakeLists.txt:12 (cmake_policy):
+  The OLD behavior for policy CMP0042 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+[33m[1mCMake Warning[0m at /home/renee/interbotix_ws/src/rtabmap_ros/CMakeLists.txt:31 (find_package):
+  By not providing "Findfiducial_msgs.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "fiducial_msgs", but CMake did not find one.
+
+  Could not find a package configuration file provided by "fiducial_msgs"
+  with any of the following names:
+
+    fiducial_msgsConfig.cmake
+    fiducial_msgs-config.cmake
+
+  Add the installation prefix of "fiducial_msgs" to CMAKE_PREFIX_PATH or set
+  "fiducial_msgs_DIR" to a directory containing one of the above files.  If
+  "fiducial_msgs" provides a separate development package or SDK, be sure it
+  has been installed.
+
+
+[31m[1mCMake Error[0m at /home/renee/interbotix_ws/src/rtabmap_ros/CMakeLists.txt:35 (find_package):
+  Could not find a configuration file for package "RTABMap" that is
+  compatible with requested version "0.20.18".
+
+  The following configuration files were considered but not accepted:
+
+    /opt/ros/noetic/lib/x86_64-linux-gnu/rtabmap-0.20/RTABMapConfig.cmake, version: 0.20.16
+
+
+

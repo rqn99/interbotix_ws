@@ -1,0 +1,5 @@
+interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_descriptions
+/home/renee/interbotix_ws/devel/.private/interbotix_xslocobot_descriptions/cmake.lock /home/renee/interbotix_ws/devel/./cmake.lock
+/home/renee/interbotix_ws/devel/.private/interbotix_xslocobot_descriptions/lib/pkgconfig/interbotix_xslocobot_descriptions.pc /home/renee/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_descriptions.pc
+/home/renee/interbotix_ws/devel/.private/interbotix_xslocobot_descriptions/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig.cmake /home/renee/interbotix_ws/devel/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig.cmake
+/home/renee/interbotix_ws/devel/.private/interbotix_xslocobot_descriptions/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig-version.cmake /home/renee/interbotix_ws/devel/share/interbotix_xslocobot_descriptions/cmake/interbotix_xslocobot_descriptionsConfig-version.cmake

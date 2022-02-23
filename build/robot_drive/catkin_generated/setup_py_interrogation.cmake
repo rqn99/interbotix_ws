@@ -1,0 +1,7 @@
+set(robot_drive_SETUP_PY_SETUP_MODULE "distutils.core")
+set(robot_drive_SETUP_PY_VERSION "0.0.0")
+set(robot_drive_SETUP_PY_SCRIPTS "")
+set(robot_drive_SETUP_PY_PACKAGES "tutorial_package")
+set(robot_drive_SETUP_PY_PACKAGE_DIRS "src/tutorial_package")
+set(robot_drive_SETUP_PY_MODULES "")
+set(robot_drive_SETUP_PY_MODULE_DIRS "")
