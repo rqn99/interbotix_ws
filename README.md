@@ -13,7 +13,6 @@ Steps to setup on your computer:
 3. clone this repo into your home directory: 
 
        $ cd
-      
        $ git clone https://github.com/rqn99/interbotix_ws.git`
 
 4. run this in terminal to install missing controller packages 
@@ -22,7 +21,7 @@ Steps to setup on your computer:
 
 5. run the following in terminal to install all dependancies and build the workspace 
 
-            $ cd ~/interbotix_ws
+       $ cd ~/interbotix_ws
        $ rosdep install -y --from-paths . --ignore-src --rosdistro noetic
        $ catkin build
 
