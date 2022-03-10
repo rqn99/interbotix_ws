@@ -12,23 +12,24 @@ Steps to setup on your computer:
 
 3. clone this repo into your home directory: 
 
-`$ cd
-$ git clone https://github.com/rqn99/interbotix_ws.git`
+       $ cd
+      
+       $ git clone https://github.com/rqn99/interbotix_ws.git`
 
 4. run this in terminal to install missing controller packages 
 
-`$ sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers`
+       $ sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
 
 5. run the following in terminal to install all dependancies and build the workspace 
 
-      `$ cd ~/interbotix_ws
-      $ rosdep install -y --from-paths . --ignore-src --rosdistro noetic
-      $ catkin build`
+            $ cd ~/interbotix_ws
+       $ rosdep install -y --from-paths . --ignore-src --rosdistro noetic
+       $ catkin build
 
 6. run the following in terminal to properly source your workspace
 
-      `$ echo "source ~/interbotix_ws/devel/setup.bash" >> ~/.bashrc
-      $ source ~/.bashr`c
+       $ echo "source ~/interbotix_ws/devel/setup.bash" >> ~/.bashrc
+       $ source ~/.bashr
 
 That's it! You should have a functional workspace:) 
 
@@ -41,3 +42,4 @@ several windows should open after a moment open another terminal and run:
      $ rosservice call /gazebo/unpause physics 
      
 otherwise rviz will never launch 
+
