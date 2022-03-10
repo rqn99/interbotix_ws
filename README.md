@@ -29,7 +29,11 @@ Steps to setup on your computer:
 That's it! You should have a functional workspace:) 
 
 To test your workspace try:
+
       $ roslaunch interbotix_xslocobot_moveit xslocobot_moveit.launch robot_model:=locobot_wx250s show_lidar:=true dof:=6 use_gazebo:=true use_moveit_rviz:=true
+      
 several windows should open after a moment open another terminal and run:
-      $ rosservice call /gazebo/unpause physics 
+     
+     $ rosservice call /gazebo/unpause physics 
+     
 otherwise rviz will never launch 
