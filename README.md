@@ -1,4 +1,6 @@
 # interbotix_ws
+Developed and documented by Renee Nguyen
+pqnguyen@stanford.edu
 
 Working workspace for trossen locobot rovers 
 
